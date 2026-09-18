@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+
+html {
+    overflow-y: scroll;
+}
+
+body {
+    font-family: 'EB Garamond';
+    background: rgb(37, 37, 37);
+    color: white;
+    width: 700px
+}
